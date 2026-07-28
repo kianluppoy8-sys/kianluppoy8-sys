@@ -36,11 +36,12 @@
 
 
 
-                 ## 🏆 Certifications
+      <img width="143" height="137" alt="image" src="https://github.com/user-attachments/assets/3a82e0f4-0489-4b58-8e40-3cc13ee076eb" />
+
 
 <h2>🏆 Certifications</h2>
 
 <a href="https://learn.opswatacademy.com/certificate/0zTwTxkL1A" target="_blank">
-  <img src="https://img.shields.io/badge/OPSWAT%20Academy-Certified-0078D7?style=for-the-badge&logo=opswat&logoColor=white" />
+  <img src="https://images.credly.com/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" />
 </a>
 
