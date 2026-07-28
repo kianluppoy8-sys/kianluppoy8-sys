@@ -36,7 +36,9 @@
 
 
 
-                   <a href="https://learn.opswatacademy.com/certificate/0zTwTxkL1A">
+                 ## 🏆 Certifications
+
+<a href="https://learn.opswatacademy.com/certificate/0zTwTxkL1A">
   <img src="https://img.shields.io/badge/OPSWAT%20Academy-Certified-blue?style=for-the-badge" />
 </a>
 
