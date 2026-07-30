@@ -26,6 +26,8 @@
 
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kianluppoy8-sys&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 
 <a href="https://learn.opswatacademy.com/certificate/0zTwTxkL1A" target="_blank">
   <img src="https://images.credly.com/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png"
