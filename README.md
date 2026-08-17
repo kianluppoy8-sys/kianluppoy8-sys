@@ -25,7 +25,6 @@
                     
 
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kianluppoy8-sys&show_icons=true&theme=dark)
 
 
 <a href="https://learn.opswatacademy.com/certificate/0zTwTxkL1A" target="_blank">
