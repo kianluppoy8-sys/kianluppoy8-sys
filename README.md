@@ -1,27 +1,26 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Kian%20Luppoy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=WEB%20PENETRATION%20TESTER%7C%20SYSTEM%20ARCHITECT&descSize=16&descAlignY=62" />
+  <!-- DEADLY RED CUSTOM WAVING HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0000,cc0000,8b0000,3a0000,0d1117&height=180&section=header&text=Kian%20Luppoy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=WEB%20PENETRATION%20TESTER%20|%20SYSTEM%20ARCHITECT&descSize=16&descColor=ff6666&descAlignY=62" alt="Header" />
 
   <p><i>"kianers"</i></p>
-
-  <p>
-    <a href="https://github.com/kianluppoy8-sys">
-      <img src="https://komarev.com/ghpvc/?username=kianluppoy8-sys&style=flat-square&color=blue&label=Profile%20Views" alt="Profile Views" />
-    </a>
-  </p>
 
 </div>
 
 ---
 
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark_github&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kianluppoy8-sys&theme=react&bg_color=0d1117&color=ff1717&line=ff1717&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
 
 <div align="center">
   <br>
@@ -37,13 +36,19 @@
 
 ---
 
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,php,ts,js,python,html,css,postgresql,git,github,vscode,hostinger" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,kali,bash,cpp,c,php,ts,js,python,html,css,postgresql,docker,git,github,vscode,hostinger" alt="Tech Stack Icons" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=70&section=footer" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kianluppoy8-sys&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <!-- DEADLY RED CUSTOM WAVING FOOTER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,3a0000,8b0000,cc0000,ff0000&height=70&section=footer" alt="Footer" />
 </div>
