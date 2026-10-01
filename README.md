@@ -11,7 +11,6 @@
         />
       </a>
       <br><br>
-      <b>OPSWAT Academy</b>
     </td>
 
 <td align="center" width="33%">
@@ -24,19 +23,13 @@
     />
   </a>
   <br><br>
-  <b>C++ Certification</b>
 </td>
 
 <!-- Column 3: GitHub Stats -->
 <td align="center" width="33%">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark_github"
-    width="300"
-    alt="Top Languages"
-  />
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark_github">
   <br><br>
-  <b>Top Languages</b>
 </td>
-
   </tr>
 </table>
