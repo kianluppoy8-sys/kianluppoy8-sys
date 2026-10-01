@@ -14,11 +14,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kianluppoy8-sys&theme=dark&bg_color=0d1117&color=ff1717&line=ff1717&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
 
 ---
 
