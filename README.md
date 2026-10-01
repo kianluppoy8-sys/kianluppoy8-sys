@@ -41,3 +41,7 @@
   <!-- DEADLY RED CUSTOM WAVING FOOTER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,3a0000,8b0000,cc0000,ff0000&height=70&section=footer" alt="Footer" />
 </div>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/kianluppoy8-sys/kianluppoy8-sys/snake-output/snake.svg" alt="Snake animation" />
+
+
