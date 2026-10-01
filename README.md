@@ -5,14 +5,23 @@
 
 </div> 
 
-<p align="center">
+<br>
+
+<div align="center">
   <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">
-    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" alt="Terminal Preview" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop">
+      <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop" alt="Interactive Terminal Banner" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; box-shadow: 0 0 20px rgba(239, 68, 68, 0.3);" />
+    </picture>
   </a>
-</p>
-<p align="center">
-  <i>👉 <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">Click here to launch your interactive animated Neofetch terminal</a></i>
-</p>
+  <p>
+    <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">
+      <code>⚡ CLICK HERE TO LAUNCH LIVE ANIMATED THROWING-NINJA TERMINAL ⚡</code>
+    </a>
+  </p>
+</div>
+
+<br>
 
 ---
 
