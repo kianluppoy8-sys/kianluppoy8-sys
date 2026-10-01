@@ -7,19 +7,12 @@
 
 <br>
 
-<div align="center">
-  <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop">
-      <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop" alt="Interactive Terminal Banner" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; box-shadow: 0 0 20px rgba(239, 68, 68, 0.3);" />
-    </picture>
-  </a>
-  <p>
-    <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">
-      <code>⚡ CLICK HERE TO LAUNCH LIVE ANIMATED THROWING-NINJA TERMINAL ⚡</code>
-    </a>
-  </p>
-</div>
+<!-- EMBEDDED LIVE TERMINAL OBJECT WRAPPER -->
+<p align="center">
+  <object data="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" width="100%" height="520px" style="border: none; background: transparent; border-radius: 12px;">
+    <embed src="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" width="100%" height="520px" style="border: none; background: transparent; border-radius: 12px;" />
+  </object>
+</p>
 
 <br>
 
