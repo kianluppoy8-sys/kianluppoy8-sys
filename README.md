@@ -1,15 +1,17 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Kian%20Luppoy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20ICT%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=62" />
+  <!-- AGGRESSIVE RED HACKER HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=180&section=header&text=K1AN%20LUPPOY&fontSize=50&fontColor=ff1717&animation=blinking&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20|%20CYBERSECURITY%20ENTHUSIAST&descSize=18&descColor=ffffff&descAlignY=70" alt="Header" />
 
   <p><i>"kianers daw"</i></p>
 
+  <!-- STATS BADGES -->
   <p>
     <a href="https://github.com/kianluppoy8-sys">
-      <img src="https://komarev.com/ghpvc/?username=kianluppoy8-sys&style=flat-square&color=blue&label=Profile%20Views" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=kianluppoy8-sys&style=flat-square&color=ff1717&label=LOGS&labelColor=000000" alt="Profile Views" />
     </a>
-    <a href="https://github.com/kianluppoy8-sys?tab=repositories">
-      <img src="https://img.shields.io/github/repos/kianluppoy8-sys?style=flat-square&color=orange&label=Public%20Repos" alt="Public Repositories" />
+     <a href="https://github.com/kianluppoy8-sys?tab=repositories">
+      <img src="https://img.shields.io/github/repos/kianluppoy8-sys?style=flat-square&color=ffffff&label=REPOS&labelColor=000000" alt="Public Repositories" />
     </a>
   </p>
 
@@ -17,16 +19,16 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 OPERATIONAL METRICS
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark_github&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
-### 🏆 Certifications & Credentials
+### 🛡️ CREDENTIALS // CLEARANCES
 
 <div align="center">
   <br>
@@ -42,14 +44,15 @@
 
 ---
 
-### 💻 Core Tech Stack & Tools
+### 💻 ENHANCED TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,php,ts,js,python,html,css,postgresql,git,github,vscode,hostinger" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,ts,js,python,html,css,postgresql,linux,kali,docker,git,github,vscode,hostinger" alt="Tech Stack" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=70&section=footer" />
+  <!-- AGGRESSIVE RED FOOTER -->
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=8B0000&height=80&section=footer" alt="Footer" />
 </div>
