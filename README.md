@@ -15,7 +15,7 @@
 
    
    <td align="center" width="40%" valign="middle" style="border: none;">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=6&hide_values=true&theme=dark_github&hide_border=true&bg_color=0d1117" width="340" alt="Top Languages" />
+     [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark_github)
     </td>
   </tr>
 </table>
