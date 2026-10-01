@@ -8,9 +8,6 @@
     <a href="https://github.com/kianluppoy8-sys">
       <img src="https://komarev.com/ghpvc/?username=kianluppoy8-sys&style=flat-square&color=blue&label=Profile%20Views" alt="Profile Views" />
     </a>
-    <a href="https://github.com/kianluppoy8-sys?tab=repositories">
-      <img src="https://img.shields.io/github/repos/kianluppoy8-sys?style=flat-square&color=orange&label=Public%20Repos" alt="Public Repositories" />
-    </a>
   </p>
 
 </div>
