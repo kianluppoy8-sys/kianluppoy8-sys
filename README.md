@@ -5,20 +5,6 @@
 
 </div> 
 
-<br>
-
-<!-- YOUR LIVE TERMINAL PREVIEW CONTAINER (Upload your terminal GIF/Screenshot here or link your hosted preview) -->
-<p align="center">
-  <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">
-    <img src="YOUR-TERMINAL-SCREENSHOT-OR-GIF-URL.gif" alt="Live Terminal Preview" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" />
-  </a>
-</p>
-<p align="center">
-  <i>👉 <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">Click the preview above to interact with the live terminal CLI</a></i>
-</p>
-
-<br>
-
 ---
 
 <p align="center">
