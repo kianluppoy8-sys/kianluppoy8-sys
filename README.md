@@ -44,7 +44,6 @@
 
 
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/kianluppoy8-sys/kianluppoy8-sys/snake-output/snake.svg" alt="Snake animation" />
 
 
 
