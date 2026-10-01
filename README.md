@@ -5,10 +5,6 @@
 
 </div>  
 
-<br> 
-
- <img src="https://s5.ezgif.com/tmp/ezgif-5278865a3ed553a8.gif" alt="Live Terminal CLI GIF" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; box-shadow: 0 0 25px rgba(239, 68, 68, 0.4);" />
-
 ---
 
 <p align="center">
