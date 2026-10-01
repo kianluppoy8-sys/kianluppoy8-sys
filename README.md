@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- AGGRESSIVE RED HACKER HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=180&section=header&text=K1AN%20LUPPOY&fontSize=50&fontColor=ff1717&animation=blinking&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20|%20CYBERSECURITY%20ENTHUSIAST&descSize=18&descColor=ffffff&descAlignY=70" alt="Header" />
+  <!-- DEADLY RED HACKER HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=180&section=header&text=K1AN%20LUPPOY&fontSize=50&fontColor=ff1717&animation=blinking&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20|%20WEB%20PENETRATION%20TESTER&descSize=18&descColor=ffffff&descAlignY=70" alt="Header" />
 
   <p><i>"kianers daw"</i></p>
 
@@ -44,15 +44,15 @@
 
 ---
 
-### 💻 ENHANCED TECH STACK
+### 💻 ENHANCED TECH STACK & OS
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,php,ts,js,python,html,css,postgresql,linux,kali,docker,git,github,vscode,hostinger" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,kali,bash,cpp,c,php,ts,js,python,html,css,postgresql,docker,git,github,vscode,hostinger" alt="Tech Stack" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- AGGRESSIVE RED FOOTER -->
+  <!-- DEADLY RED FOOTER -->
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=8B0000&height=80&section=footer" alt="Footer" />
 </div>
