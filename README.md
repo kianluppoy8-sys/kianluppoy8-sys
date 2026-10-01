@@ -6,7 +6,13 @@
 </div> 
 
 <p align="center">
-  <iframe src="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" width="100%" height="520px" style="border: none; background: transparent; border-radius: 12px;" scrolling="no"></iframe>
+  <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">
+    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" alt="Terminal Preview" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+  </a>
+</p>
+<p align="center">
+  <i>👉 <a href="https://square-sapphire-ue6wtqcr.edgeone.dev/index.html" target="_blank">Click here to launch your interactive animated Neofetch terminal</a></i>
+</p>
 
 ---
 
@@ -14,7 +20,6 @@
   <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
-
 
 ---
 
@@ -41,11 +46,4 @@
 <div align="center">
   <!-- DEADLY RED CUSTOM WAVING FOOTER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,3a0000,8b0000,cc0000,ff0000&height=70&section=footer" alt="Footer" />
-</div>   
-
-
-
-
-
-
-
+</div>
