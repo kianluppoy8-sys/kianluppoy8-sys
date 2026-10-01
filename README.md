@@ -12,4 +12,5 @@
        alt="Certification Badge" />
 </a>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark_github) 
 
