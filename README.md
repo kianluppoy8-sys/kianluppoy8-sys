@@ -1,9 +1,13 @@
-<div align="center">
+<div align="center"> 
 
-  <!-- DEADLY RED CUSTOM WAVING HEADER -->
+  <!-- [DEADLY RED CUSTOM WAVING HEADER](https://s5.ezgif.com/tmp/ezgif-5278865a3ed553a8.gif) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0000,cc0000,8b0000,3a0000,0d1117&height=180&section=header&text=Kian%20Luppoy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=WEB%20PENETRATION%20TESTER%20|%20SYSTEM%20ARCHITECT&descSize=16&descColor=ff6666&descAlignY=62" alt="Header" />  
 
-</div> 
+</div>  
+
+<br> 
+
+ <img src="https://s5.ezgif.com/tmp/ezgif-5278865a3ed553a8.gif" alt="Live Terminal CLI GIF" width="100%" style="border-radius: 12px; border: 2px solid #ef4444; box-shadow: 0 0 25px rgba(239, 68, 68, 0.4);" />
 
 ---
 
