@@ -10,14 +10,14 @@
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kianluppoy8-sys&theme=react&bg_color=0d1117&color=ff1717&line=ff1717&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kianluppoy8-sys&theme=dark&bg_color=0d1117&color=ff1717&line=ff1717&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -38,12 +38,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,kali,bash,cpp,c,php,ts,js,python,html,css,postgresql,docker,git,github,vscode,hostinger" alt="Tech Stack Icons" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kianluppoy8-sys&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
 ---
