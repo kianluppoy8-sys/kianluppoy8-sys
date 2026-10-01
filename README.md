@@ -2,8 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Kian%20Luppoy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20ICT%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=62" />
 
-  <p><i>"kianers daw"</i></p>
-
   <p>
     <a href="https://github.com/kianluppoy8-sys">
       <img src="https://komarev.com/ghpvc/?username=kianluppoy8-sys&style=flat-square&color=blue&label=Profile%20Views" alt="Profile Views" />
@@ -17,7 +15,6 @@
 
 ---
 
-### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" width="48%" />
@@ -26,7 +23,6 @@
 
 ---
 
-### 🏆 Certifications & Credentials
 
 <div align="center">
   <br>
@@ -42,7 +38,7 @@
 
 ---
 
-### 💻 Core Tech Stack & Tools
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,php,ts,js,python,html,css,postgresql,git,github,vscode,hostinger" alt="Tech Stack Icons" />
