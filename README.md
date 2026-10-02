@@ -9,7 +9,7 @@
 <pre style="color:red;">
                                   k1anzh3n@parrot
                                   ┌────────────────────────────────────────────────────────────┐
-                ##                 OS ➜ Parrot Security 7.3 (echo) x86_64                     
+                ##                  ├OS ➜ Parrot Security 7.3 (echo) x86_64                     
             ########              │ ├Model ➜ Windows Subsystem for Linux - parrot (2.7.10.0)   
         ######    ######          │ ├Kernel ➜ Linux 6.18.33.2-microsoft-standard-WSL2
      ######      ##########       │ ├Packages ➜ 749 (dpkg)
