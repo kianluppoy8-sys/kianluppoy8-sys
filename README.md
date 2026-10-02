@@ -8,9 +8,9 @@
 
 <pre style="color:red;">
                                   k1anzh3n@parrot
-                                  ┌─────────────────────────────────────────────────┐
-                ##                 OS ➜ Parrot Security 7.3 (echo) x86_64
-            ########              │ ├Model ➜ Windows Subsystem for Linux - parrot (2.7.10.0)
+                                  ┌────────────────────────────────────────────────────────────┐
+                ##                 OS ➜ Parrot Security 7.3 (echo) x86_64                     
+            ########              │ ├Model ➜ Windows Subsystem for Linux - parrot (2.7.10.0)   
         ######    ######          │ ├Kernel ➜ Linux 6.18.33.2-microsoft-standard-WSL2
      ######      ##########       │ ├Packages ➜ 749 (dpkg)
   ######     #######    ######    │ └Shell ➜ bash 5.2.37
@@ -24,7 +24,7 @@
     ######     ##    #######      │ ├Memory ➜ 462.59 MiB / 7.40 GiB (6%)
        ######  ##  ######         │ ├Uptime ➜ 57 mins
           ############            │ └Resolution ➜ 1920x1080 @ 60 Hz
-              ####                └─────────────────────────────────────────────────┘
+              ####                └─────────────────────────────────────────────────────────────┘
 </pre>
 
 
