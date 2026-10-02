@@ -6,7 +6,7 @@
 
 <span style="color:#9b59b6;"> 
 
-<pre style="color:#9b59b6;">
+<pre style="color:red;">
                                   k1anzh3n@parrot
                                   ┌─────────────────────────────────────────────────┐
                 ##                 OS ➜ Parrot Security 7.3 (echo) x86_64
