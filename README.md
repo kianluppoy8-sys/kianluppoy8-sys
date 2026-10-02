@@ -8,7 +8,7 @@
 ```text
 
 
-                                  zh3n@parrot
+                                  k1anzh3n@parrot
                                   ┌─────────────────────────────────────────────────┐
                 ##                 OS ➜ Parrot Security 7.3 (echo) x86_64
             ########              │ ├Model ➜ Windows Subsystem for Linux - parrot (2.7.10.0)
