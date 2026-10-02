@@ -5,7 +5,7 @@
 </div>  
 
 
----
+```text
 
 
                                   zh3n@parrot
@@ -27,9 +27,9 @@
           ############            │ └Resolution ➜ 1920x1080 @ 60 Hz
               ####                └─────────────────────────────────────────────────┘
 
+```
 
 
----
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="48%" />
