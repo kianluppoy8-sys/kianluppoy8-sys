@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=kianluppoy8-sys&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=11&hide_values=true&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kianluppoy8-sys&hide_progress=true&langs_count=14&hide_values=true&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 ---
